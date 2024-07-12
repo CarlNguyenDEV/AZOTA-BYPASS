@@ -1,7 +1,7 @@
 # AZOTA-BYPASS version 1.1
 - Please, these tools are only for education and I have cut off some things, don't use this for the AZOTA EXAM or anything else!
 - I didn't have time to program the .exe tools, but there are some that you can do to take the ByPass from the Azota Exam
-- Run the main.py
+- Run the main.py in CMD or Terminal (Recommend)
 ![image](https://github.com/user-attachments/assets/4573d6d1-93cc-4859-8ee7-eda35a1c2716)
 - You will get that
 ![image](https://github.com/user-attachments/assets/389ac833-b0b2-4f92-b658-a5965255aa2f)
