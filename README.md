@@ -7,5 +7,5 @@
 - Select all the licenses, Run the script then Open the AZOTA Exam as full view
 ![image](https://github.com/user-attachments/assets/e11f8e92-acb8-4aad-850f-98ba078f6f26)
 - After running them successfully, enjoy that
-- Contact me for this password ,question and update for free
-v1.2 will coming soon
+- Contact me for password, question, and update for free
+v1.2 will come soon
