@@ -1,7 +1,7 @@
 # AZOTA-BYPASS version 1.2
 - Please, these tools are only for education and I have cut off some things, don't use this for the AZOTA EXAM or anything else!
 - I didn't have time to program the .exe tools, but there are some that you can do to take the ByPass from the Azota Exam
-- This tools use for Window 11 and the setting of display is 1920x1080 / 100% show
+- These tools use for Windows 11 and the setting of the display is 1920x1080 / 100% show
 - Run the main.py in CMD or Terminal (Recommend)
 ![image](https://github.com/user-attachments/assets/4573d6d1-93cc-4859-8ee7-eda35a1c2716)
 - You will get that
